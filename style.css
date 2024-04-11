@@ -1,9 +1,49 @@
-h1{
-  text-align:center; 
+.principal{
+  background-color: white;
+  color: #000000;
 }
+
+h1 {
+  text-align: center;
+  color: black;
+     background: linear-gradient(0deg, #ffe042, #ff881a, #8fecff, #ffe042, #ff881a, #8fecff, #ffe042 , #ff881a, #8fecff);
+      border: #0f477b solid 10px;
+  border-radius: 10px;
+  
+  }
+.beneficios{
+  background-color: #879fe8;
+  color: black;
+  text-align: center;
+  border: #0f477b 3px;
+  border-radius: 10px;
+}
+  h2{
+    text-align: center;
+  }
+
 p {
-     text-align:center;
+ text-align: center; 
+  
 }
+
 #missao {
-  font-size:20px;
+  font-size: 20px;
+}
+
+em b {
+color: #1a1a74;
+}
+
+.item{
+  font-style: oblique;
+}
+ul {
+   display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+.imagem-beneficios{
+  style="width: 50%;"
 }
