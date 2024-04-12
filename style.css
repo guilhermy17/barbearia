@@ -1,26 +1,31 @@
+.titulo-principal{
+  padding-left: 20px;
+}
+
 .principal{
-  background-color: white;
-  color: #000000;
+  background-color: #879fe8;;
+  color: #ffffff;
 }
 
 h1 {
   text-align: center;
-  color: black;
-     background: linear-gradient(0deg, #ffe042, #ff881a, #8fecff, #ffe042, #ff881a, #8fecff, #ffe042 , #ff881a, #8fecff);
-      border: #0f477b solid 10px;
+  color: #000000;
+     background: linear-gradient(0deg, #ffe042, #ff881a, #879fe8, #ffe042, #ff881a, #879fe8, #ffe042 , #ff881a, #879fe8);
+      border: #001224 TRANSPARENT 5px;
   border-radius: 10px;
   
   }
 .beneficios{
-  background-color: #879fe8;
+  background-color: #fffb8a;
   color: black;
   text-align: center;
-  border: #0f477b 3px;
+  border: #75bcff 3px;
   border-radius: 10px;
 }
-  h2{
-    text-align: center;
-  }
+
+.texto-centralizado {
+  text-align: center;
+}
 
 p {
  text-align: center; 
