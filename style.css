@@ -3,23 +3,29 @@
 }
 
 .principal{
-  background-color: #879fe8;;
+  background-color: #59a03b;;
   color: #ffffff;
 }
+.banner {
+  width: 100%;
+}
 
+.textocent {
+  text-align: center;
+}
 h1 {
   text-align: center;
   color: #000000;
-     background: linear-gradient(0deg, #ffe042, #ff881a, #879fe8, #ffe042, #ff881a, #879fe8, #ffe042 , #ff881a, #879fe8);
+     background: linear-gradient(0deg, #f6a431, #cc6300, #6ea848, #f6a431, #cc6300, #6ea848, #f6a431 , #cc6300, #6ea848);
       border: #001224 TRANSPARENT 5px;
   border-radius: 10px;
   
   }
 .beneficios{
-  background-color: #fffb8a;
+  background-color: #feae3e;
   color: black;
   text-align: center;
-  border: #75bcff 3px;
+  border: #4d8542 3px;
   border-radius: 10px;
 }
 
@@ -37,7 +43,7 @@ p {
 }
 
 em b {
-color: #1a1a74;
+color: #1c5e21;
 }
 
 .item{
